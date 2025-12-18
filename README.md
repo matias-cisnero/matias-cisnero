@@ -7,5 +7,5 @@
 
 ## 🌟 Featured Projects
 
-- [**Anomaly Detection with Autoencoder**](https://github.com/matias-cisnero/anomaly-detection-with-autoencoder) — **Capstone Project (Final Degree Thesis)**. Implementation of an Autoencoder for anomaly detection in medical data. *Stack: Python, PyTorch, Matplotlib, Pandas.*
+- [**Anomaly Detection with Autoencoder**](https://github.com/matias-cisnero/anomaly-detection-with-autoencoder) — **Final Degree Project**. Implementation of an Autoencoder for anomaly detection in medical data. *Stack: Python, PyTorch, Matplotlib, Pandas.*
 - [**Image Processing App**](https://github.com/matias-cisnero/image-processing-app) — Desktop application for digital image processing, including edge detection (basic/advanced), kernels, noise, and point operators. *Stack: Python (Tkinter), PILLOW, NumPy, Matplotlib.*
